@@ -19,13 +19,30 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m pursuing a Master degree on Urban Spatial Science, applying data analytic tech on urban space and social issues.
+- :telescope: I’m pursuing a Master degree on Urban Spatial Science, applying data analytic tech on urban space and social issues. I had a bachelor's degree and work experience in Landscape Architecture.
 
-- :seedling: Exploring Urban Data Science.
+- :seedling: Exploring urban space, people living here and data science.
 
-- :feather: I love nature. In my free time, I like observing birds and wandering in the parks.
+- :feather: I love nature. In my free time, I like observing birds and wandering in the parks. Street dance is another hobby for me.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinjiang22)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinjiang22)
+
+---
+### :star2: Projects I have done:
+- **[Understanding the Post COVID-19 Tourists’ Preferences for UK TourismDevelopment](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
+
+- __[Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London]__
+
+
+- __Research on the Evaluation System of Qinhuai River Cultural Landscape Scene Supported by Digital Footprint__  
+Bachelor degree dissertation - Quantitative analysis; GIS; Big data; POI; Scene theory  
+Brief intro: scratching POIs using Amap API and scratching digital footprint data, doing data analysis such as cluster analysis and data visualiation in ArcGIS.
+
+- __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
+Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
+
+- __[Electricity Generation Worldwide 3D Map 2020]()__
+
 
 ---
 
@@ -33,11 +50,15 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+### :hammer_and_wrench: 2D/3D Modeling and Drawing Softwares :
+Adobe Photoshop, Adobe InDesign, Adobe Premium, AutoCAD, SketchUp, 
+
 

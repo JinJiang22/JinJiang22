@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m pursuing a Master degree on Urban Spatial Science in UK, applying data analytic tech on urban space and social issues. I had a bachelor's degree and work experience in Landscape Architecture.
+- :telescope: I'd like to apply data analytic tech on urban space and social issues. I had academic and work experience in Landscape Architecture.
 
 - :seedling: Exploring urban space, people living here and data science.
 

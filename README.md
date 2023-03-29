@@ -45,7 +45,7 @@ Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 Student Research - GIS; Land planning  
 Brief intro: Integrating geographic information such as mountain slope, hydrological data and vegetation cover to develop an evaluation system for mountainous land planning, making an ecological sensitivity distribution map and road system design by using ArcGIS tools.
 
-- __[Electricity Generation Worldwide 3D Map 2020]()__
+- __[Electricity Generation Worldwide 3D Map 2020](https://rawcdn.githack.com/JinJiang22/DigitalViz/a2fef9530cf871e81491b3c8f6076212223177f0/Elecgene_Map.html)__
 
 
 ---

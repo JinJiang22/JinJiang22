@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m pursuing a Master degree on Urban Spatial Science, applying data analytic tech on urban space and social issues. I had a bachelor's degree and work experience in Landscape Architecture.
+- :telescope: I’m pursuing a Master degree on Urban Spatial Science in UK, applying data analytic tech on urban space and social issues. I had a bachelor's degree and work experience in Landscape Architecture.
 
 - :seedling: Exploring urban space, people living here and data science.
 
@@ -41,6 +41,10 @@ Brief intro: scratching POIs using Amap API and scratching digital footprint dat
 - __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
 Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 
+- __Nanjing City Mountainous Area Land-use Planning based on GIScience__
+Student Research - GIS; Land planning  
+Brief intro: Integrating geographic information such as mountain slope, hydrological data and vegetation cover to develop an evaluation system for mountainous land planning, making an ecological sensitivity distribution map and road system design by using ArcGIS tools.
+
 - __[Electricity Generation Worldwide 3D Map 2020]()__
 
 
@@ -59,6 +63,6 @@ Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 </div>
 
 ### :hammer_and_wrench: 2D/3D Modeling and Drawing Softwares :
-Adobe Photoshop, Adobe InDesign, Adobe Premium, AutoCAD, SketchUp, 
+Adobe Photoshop, Adobe InDesign, Adobe Premium, AutoCAD, SketchUp, Lumion...
 
 

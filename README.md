@@ -23,7 +23,7 @@
 
 - :seedling: Exploring urban space, people living here and data science.
 
-- :feather: I love nature. In my free time, I like observing birds and wandering in the parks. Street dance is another hobby for me.
+- :feather: I love nature. In my free time, I like observing birds and wandering in the parks. Urban dance is another thing .
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinjiang22)
 

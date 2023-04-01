@@ -36,11 +36,9 @@
 
 - __Research on the Evaluation System of Qinhuai River Cultural Landscape Scene Supported by Digital Footprint__  
 Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scene Theory  
-Brief intro:
-• Conducted network analysis to attraction points.
-• Conducted sentiment analysis on scraped tourism website comments.
-• Evaluated the cultural landscape based on scraped POI data, demographic data and green space 
-data.
+• Conducted network analysis to attraction points.  
+• Conducted sentiment analysis on scraped tourism website comments.  
+• Evaluated the cultural landscape based on scraped POI data, demographic data and green space data.  
 • Data analysis and visualisation in ArcGIS.
 
 - __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
@@ -48,8 +46,8 @@ Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 
 - __Nanjing City Mountainous Area Land-use Planning based on GIScience__
 Student Research - GIS; Land planning  
-• Integrated geographic information such as mountain slopes, hydrological information and vegetation cover to develop an evaluation system for mountainous land planning.
-• Produced an ecological sensitivity map and road system design using ArcGIS tools.
+• Integrated geographic information such as mountain slopes, hydrological information and vegetation cover to develop an evaluation system for mountainous land planning.  
+• Produced an ecological sensitivity map and road system design using ArcGIS tools.  
 
 - __[Electricity Generation Worldwide 3D Map 2020](https://rawcdn.githack.com/JinJiang22/DigitalViz/a2fef9530cf871e81491b3c8f6076212223177f0/Elecgene_Map.html)__
 

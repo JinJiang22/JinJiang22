@@ -31,19 +31,25 @@
 ### :star2: Projects I have done:
 - **[Understanding the Post COVID-19 Tourists’ Preferences for UK TourismDevelopment](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
 
-- __[Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London]__
+- __Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London__
 
 
 - __Research on the Evaluation System of Qinhuai River Cultural Landscape Scene Supported by Digital Footprint__  
-Bachelor degree dissertation - Quantitative analysis; GIS; Big data; POI; Scene theory  
-Brief intro: scratching POIs using Amap API and scratching digital footprint data, doing data analysis such as cluster analysis and data visualiation in ArcGIS.
+Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scene Theory  
+Brief intro:
+• Conducted network analysis to attraction points.
+• Conducted sentiment analysis on scraped tourism website comments.
+• Evaluated the cultural landscape based on scraped POI data, demographic data and green space 
+data.
+• Data analysis and visualisation in ArcGIS.
 
 - __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
 Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 
 - __Nanjing City Mountainous Area Land-use Planning based on GIScience__
 Student Research - GIS; Land planning  
-Brief intro: Integrating geographic information such as mountain slope, hydrological data and vegetation cover to develop an evaluation system for mountainous land planning, making an ecological sensitivity distribution map and road system design by using ArcGIS tools.
+• Integrated geographic information such as mountain slopes, hydrological information and vegetation cover to develop an evaluation system for mountainous land planning.
+• Produced an ecological sensitivity map and road system design using ArcGIS tools.
 
 - __[Electricity Generation Worldwide 3D Map 2020](https://rawcdn.githack.com/JinJiang22/DigitalViz/a2fef9530cf871e81491b3c8f6076212223177f0/Elecgene_Map.html)__
 

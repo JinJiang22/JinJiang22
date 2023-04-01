@@ -29,7 +29,7 @@
 
 ---
 ### :star2: Projects I have done:
-- **[Understanding the Post COVID-19 Tourists’ Preferences for UK TourismDevelopment](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
+- **[Understanding the Post COVID-19 Tourists’ Preferences for UK Tourism Development](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
 
 - __Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London__
 

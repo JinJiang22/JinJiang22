@@ -31,7 +31,7 @@
 ### :star2: Projects I have done:
 - **[Understanding the Post COVID-19 Tourists’ Preferences for UK Tourism Development](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
 
-- __[Simulation on London's underground network by Network Analysis and Spatial Interaction Model]__(https://github.com/JinJiang22/LondonTubeNetwork_simulation.git)
+- __[Simulation on London's underground network by Network Analysis and Spatial Interaction Model](https://github.com/JinJiang22/LondonTubeNetwork_simulation.git)__
 
 - __Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London__
 

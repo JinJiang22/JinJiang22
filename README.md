@@ -21,9 +21,9 @@
 
 - :telescope: I'd like to apply data analytic tech on urban space and social issues. I had academic and work experience in Landscape Architecture.
 
-- :seedling: Exploring urban space, people living here and data science.
+- :seedling: Exploring urban space, people and data science.
 
-- :feather: I love nature. In my free time, I like observing birds and wandering in the parks. Urban dance is another thing that gives me energy .
+- :feather: I love nature. In my free time, I like observing birds and wandering in the parks. Urban dance is another thing that gives me energy.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinjiang22)
 

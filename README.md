@@ -47,7 +47,7 @@ Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scen
 - __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
 Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 
-- __[Ecology-based Site Planning for Ziqing Lake and Tangshan Mountain Areas, Nanjing]()__  
+- __[Ecology-based Site Planning for Ziqing Lake and Tangshan Mountain Areas, Nanjing](https://github.com/JinJiang22/Projects_brief/tree/main/Ecology-basedSitePlanning_ZiqingLake)__  
 Student Research - Land-use planning; GIS analysis; Analytic Hierarchy Process(AHP); Road network autodesign
 • Integrated geographic information such as mountain slopes, hydrological information and vegetation cover to develop an evaluation system for mountainous land planning.  
 • Produced a construction suitablity scheme based on ecological sensitivity and designed a road network using ArcGIS tools.  

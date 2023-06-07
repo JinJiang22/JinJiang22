@@ -37,7 +37,7 @@
 
 - __Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London__
 
-- __[Research on Building an Evaluation System of Cultural Landscape Scene based on Digital Footprint and POI data, in the case of Qinhuai River](https://github.com/JinJiang22/Projects_brief/blob/main/A%20Characteristics%20Evaluation%20System%20of%20Cultural%20Landscape%20Scene%20based%20on%20Digital%20Footprint%20and%20POI%20Data_Qinhuai%20River.jpg)__  
+- __[Research on Building an Evaluation System of Cultural Landscape Scene based on Digital Footprint and POI data, in the case of Qinhuai River, Nanjing](https://github.com/JinJiang22/Projects_brief/blob/main/A%20Characteristics%20Evaluation%20System%20of%20Cultural%20Landscape%20Scene%20based%20on%20Digital%20Footprint%20and%20POI%20Data_Qinhuai%20River.jpg)__  
 Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scene Theory  
 • Conducted network analysis to attraction points.  
 • Conducted sentiment analysis on scraped tourism website comments.  
@@ -47,10 +47,10 @@ Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scen
 - __Research on Maintaining High Urban Transportation Efficiency in the Post-Pandemic Era by Adjusting the Subway Operation__  
 Student Research - Urban policy analysis; Sensitivity analysis; Solver in Excel
 
-- __Nanjing City Mountainous Area Land-use Planning based on GIScience__
-Student Research - GIS; Land planning  
+- __[Ecology-based Site Planning for Ziqing Lake and Tangshan Mountain Areas, Nanjing]()__  
+Student Research - Land-use planning; GIS analysis; Analytic Hierarchy Process(AHP); Road network autodesign
 • Integrated geographic information such as mountain slopes, hydrological information and vegetation cover to develop an evaluation system for mountainous land planning.  
-• Produced an ecological sensitivity map and road system design using ArcGIS tools.  
+• Produced a construction suitablity scheme based on ecological sensitivity and designed a road network using ArcGIS tools.  
 
 - __[Electricity Generation Worldwide 3D Map 2020](https://rawcdn.githack.com/JinJiang22/DigitalViz/a2fef9530cf871e81491b3c8f6076212223177f0/Elecgene_Map.html)__
 

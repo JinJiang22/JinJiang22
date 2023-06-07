@@ -37,7 +37,7 @@
 
 - __Relationship between the weight of sugar in the average product of Tesco grocery shopping and the diabetes prevalence, based on ward-level data in 2015 in London__
 
-- __Research on the Evaluation System of Qinhuai River Cultural Landscape Scene Supported by Digital Footprint__  
+- __[Research on Building an Evaluation System of Cultural Landscape Scene based on Digital Footprint and POI data, in the case of Qinhuai River](https://github.com/JinJiang22/Projects_brief/blob/main/A%20Characteristics%20Evaluation%20System%20of%20Cultural%20Landscape%20Scene%20based%20on%20Digital%20Footprint%20and%20POI%20Data_Qinhuai%20River.jpg)__  
 Bachelor degree dissertation - Quantitative evaluation; GIS; Big data; POI; Scene Theory  
 • Conducted network analysis to attraction points.  
 • Conducted sentiment analysis on scraped tourism website comments.  

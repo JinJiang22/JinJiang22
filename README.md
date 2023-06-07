@@ -57,7 +57,7 @@ Student Research - GIS; Land planning
 
 ---
 
-### :hammer_and_wrench: Computing Languages and Tools :
+### :hammer_and_wrench: Computing Languages and Analysis Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -66,8 +66,7 @@ Student Research - GIS; Land planning
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/JinJiang22/Data/main/qgis-logo.svg" title="Git" alt="Git" width="80" height="40"/></div>
 
 ### :hammer_and_wrench: 2D/3D Modeling and Drawing Softwares :

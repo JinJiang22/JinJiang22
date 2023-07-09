@@ -31,7 +31,7 @@
 ### :star2: Projects I have done:
 - **[Visualisation Web of Urbanisation and Railway System in Greater Bay Area](https://dantechen0825.github.io/GreaterBayArea/)**
 
-- **[Understanding the Post COVID-19 Tourists’ Preferences for UK Tourism Development](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
+- **[Understanding the Post COVID-19 Tourists’ Preferences in renting Airbnb in London](https://github.com/JinJiang22/fsds_GroupWork/blob/main/Policy-Briefing.pdf)**
 
 - __[Simulation on London's underground network by Network Analysis and Spatial Interaction Model](https://github.com/JinJiang22/LondonTubeNetwork_simulation.git)__
 
